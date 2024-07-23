@@ -19,5 +19,9 @@ The project includes the implementation of multiple machine learning models, inc
 6. K-Nearest Neighbors (KNN)
 7. Naive Bayes
 8. Logistic Regression
+9. Linear Discriminant Analysis
+10. Decision Trees
+11. AdaBoost
+12. LightGBM
 
 Each model is trained and evaluated using a consistent pipeline and grid search for hyperparameter tuning.
